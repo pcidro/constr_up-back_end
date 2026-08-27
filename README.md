@@ -12,6 +12,10 @@ API RESTful desenvolvida em **Laravel 11** e **MySQL** para gerenciamento e CRUD
 - **Gerenciador de Dependências**: Composer
 - **Ambiente de Desenvolvimento**: Laragon (ou similar)
 
+## Repositório Front End
+
+- **Frontend (Vue 3 + TypeScript + Vite)**: [https://github.com/pcidro/constr_up-front-end](https://github.com/pcidro/constr_up-front-end)
+
 ---
 
 ## Como Executar o Projeto
@@ -200,3 +204,5 @@ Todas as rotas possuem o prefixo `/api` e aceitam o header `Accept: application/
     "message": "Product deleted"
 }
 ```
+
+---
